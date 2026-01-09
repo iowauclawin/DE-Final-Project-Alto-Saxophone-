@@ -1,4 +1,4 @@
-import gpiozero
+from gpiozero import Button
 
 button1 = Button(2)
 button2 = Button(3)
