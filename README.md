@@ -23,3 +23,12 @@ This is a fingering chart for how to play each note on the alto saxophone. I ref
 I can play the notes for my saxophone project depending on the buttons that are pressed. I have corresponded my 15 buttons on my project to 15 buttons on an actual saxophone. Then I have an if/elif statement for every note that I want added and have 15 different conditions inside each if/elif statement. Each condition refers to each of my 15 buttons and checks if they are on and off. I need to reference all 15 buttons as there are many notes where a certain combination of buttons overlap. It doesn't directly play the notes in each if statement, but sets a value of a variable called note to the audio file I want played. After it goes through all the if statements, then it goes through the logic I talked about in the code flow chart.
 
 # Important Components to Saxophone
+**Pressure Transducer**
+<img width="660" height="591" alt="Screenshot 2026-01-09 10 27 57 AM" src="https://github.com/user-attachments/assets/ab0e0dfd-33ac-4c08-8c60-8c2c170e70df" />
+Detects the amount of pressure that is being put onto it. This was meant to be used to detect the pressure of the air you are blowing into it, which would change the volume of the saxophone
+
+**Buttons**
+<img width="396" height="394" alt="Screenshot 2026-01-12 12 56 01 PM" src="https://github.com/user-attachments/assets/773b182f-fc2b-4d99-8977-4ee4ffb4cf63" />
+Detects when it is being pressed or not. This is used to act as a button on the saxophone. With a certain combination of buttons that are on and off, we can find what note that corresponds to on the actual saxophone and tell the code to play it
+
+
