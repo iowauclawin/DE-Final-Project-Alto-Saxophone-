@@ -38,4 +38,10 @@ Detects the amount of pressure that is being put onto it. This was meant to be u
 
 Detects when it is being pressed or not. This is used to act as a button on the saxophone. With a certain combination of buttons that are on and off, we can find what note that corresponds to on the actual saxophone and tell the code to play it.
 
+# CAD Models
+
+**Saxophone**
+
+
+**Buttons**
 
