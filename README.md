@@ -19,6 +19,7 @@ This is my code in a flow chart form. This flow chart is only when a button is b
 This is a fingering chart for how to play each note on the alto saxophone. I referenced this image to use for my own saxophone. When a certain combination of buttons on this chart was hit, the note that corresponds to it would be played
 
 **How Playing Notes Work**
+
 I can play the notes for my saxophone project depending on the buttons that are pressed. I have corresponded my 15 buttons on my project to 15 buttons on an actual saxophone. Then I have an if/elif statement for every note that I want added and have 15 different conditions inside each if/elif statement. Each condition refers to each of my 15 buttons and checks if they are on and off. I need to reference all 15 buttons as there are many notes where a certain combination of buttons overlap. It doesn't directly play the notes in each if statement, but sets a value of a variable called note to the audio file I want played. After it goes through all the if statements, then it goes through the logic I talked about in the code flow chart.
 
-
+# Important Components to Saxophone
