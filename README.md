@@ -41,7 +41,10 @@ Detects when it is being pressed or not. This is used to act as a button on the 
 # CAD Models
 
 **Saxophone**
+<img width="1419" height="1014" alt="Screenshot 2025-12-21 023828" src="https://github.com/user-attachments/assets/4e0f7da1-0fa3-4f73-99b1-bd48d5eeeac4" />
 
-
+<br/><br/>
 **Buttons**
+
+<img width="869" height="557" alt="Screenshot 2026-01-12 171616" src="https://github.com/user-attachments/assets/80f89e27-b885-4ee1-ac0c-c79741ed2d3b" />
 
