@@ -57,8 +57,11 @@ Detects when it is being pressed or not. This is used to act as a button on the 
 During the time of my project, I have faced many problems, from big to small. Some of my smaller issues included my CAD model as I couldn't properly replicate some parts of the saxophone and finding a way to 3D print it also took some time. I would say that one of my major obstacles was wiring all the buttons together. More specifically, fitting all of these wired buttons into the CAD model was one of the hardest parts. The wires were all over the place and I quickly lost track of where each wire went as they entangled with each other. I only was able to get all the wirings fitted into the 3D printed model by using additional wires to connect them. Another big obstacle I faced was importing the correct libraries into my PI. Before I switched to a Raspberry Pi 4, I couldn't really import many libraries into my Pi 5 since it worked in a different way. When I switched, I could import all the libraries I saw on the internet and solved that problem.
 
 **Wiring**
+
 <img width="787" height="710" alt="Screenshot 2026-01-14 214644" src="https://github.com/user-attachments/assets/2d86ad50-7cf5-4880-ad39-09de4b682dc4" />
+
 This is the wiring of my project. It was incredibly difficult for me as I first had to fit all the wires on the breadboard and GPIO. This was difficult as when I kept putting more and more wires on the raspberry pi, it became harder to put in new pins. After that ordeal, I had to glue all of my buttons onto the inside of my 3D modeled design, which not only took a while, but frustrated me a lot. 
 
 **Reflection**
+
 I feel that while this project may have been a struggle for me at times, I have learned a lot from these experiences. I encountered many obstacles and road blocks that frustrated me, but overcoming them made me feel like I was learning and becoming better. It also helped that my project was something that I was passionate about and really wanted to do. Though I may have quit playing the saxophone, I still think about it occasionally, which is why I chose this as my project. This project has helped me increase my technical, planning, and documenting skills while staying fun throughout. Due to how much fun I had, I will most likely continue working on this project and fine tuning it until it can become close to an actual saxophone.
