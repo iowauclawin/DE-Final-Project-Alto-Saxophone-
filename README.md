@@ -25,6 +25,9 @@ This is a fingering chart for how to play each note on the alto saxophone. I ref
 
 I can play the notes for my saxophone project depending on the buttons that are pressed. I have corresponded my 15 buttons on my project to 15 buttons on an actual saxophone. Then I have an if/elif statement for every note that I want added and have 15 different conditions inside each if/elif statement. Each condition refers to each of my 15 buttons and checks if they are on and off. I need to reference all 15 buttons as there are many notes where a certain combination of buttons overlap. It doesn't directly play the notes in each if statement, but sets a value of a variable called note to the audio file I want played. After it goes through all the if statements, then it goes through the logic I talked about in the code flow chart.
 
+**Video of Playing the B note on My Saxophone**
+
+
 # Important Components to Saxophone
 **Pressure Transducer**
 
@@ -51,3 +54,9 @@ Detects when it is being pressed or not. This is used to act as a button on the 
 **Obstacles I Faced**
 
 During the time of my project, I have faced many problems, from big to small. Some of my smaller issues included my CAD model as I couldn't properly replicate some parts of the saxophone and finding a way to 3D print it also took some time. I would say that one of my major obstacles was wiring all the buttons together. More specifically, fitting all of these wired buttons into the CAD model was one of the hardest parts. The wires were all over the place and I quickly lost track of where each wire went as they entangled with each other. I only was able to get all the wirings fitted into the 3D printed model by using additional wires to connect them. Another big obstacle I faced was importing the correct libraries into my PI. Before I switched to a Raspberry Pi 4, I couldn't really import many libraries into my Pi 5 since it worked in a different way. When I switched, I could import all the libraries I saw on the internet and solved that problem.
+
+**Wiring**
+<img width="787" height="710" alt="Screenshot 2026-01-14 214644" src="https://github.com/user-attachments/assets/2d86ad50-7cf5-4880-ad39-09de4b682dc4" />
+This is the wiring of my project. It was incredibly difficult for me as I first had to fit all the wires on the breadboard and GPIO. This was difficult as when I kept putting more and more wires on the raspberry pi, it became harder to put in new pins. After that ordeal, I had to glue all of my buttons onto the inside of my 3D modeled design, which not only took a while, but frustrated me a lot. 
+
+
